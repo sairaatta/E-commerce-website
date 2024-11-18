@@ -1,14 +1,14 @@
 // src/data/products.js
-import sandle from '../assets/Images/sandle.jpg';
-import bag from '../assets/Images/bag.png';
-import watch from '../assets/Images/watch.jpg';
-import headphone from '../assets/Images/headphone1.jpg';
-import glove from '../assets/Images/glove.jpg';
-import robot from '../assets/Images/robot.jpg';
-import boot from '../assets/Images/boot.png';
-import cap from '../assets/Images/cap.jpg';
-import shirt from '../assets/Images/shirt.jpg';
-import pant from '../assets/Images/pants.jpg';
+import sandle from '../assets/images/sandle.jpg';
+import bag from '../assets/images/bag.png';
+import watch from '../assets/images/watch.jpg';
+import headphone from '../assets/images/headphone1.jpg';
+import glove from '../assets/images/glove.jpg';
+import robot from '../assets/images/robot.jpg';
+import boot from '../assets/images/boot.png';
+import cap from '../assets/images/cap.jpg';
+import shirt from '../assets/images/shirt.jpg';
+import pant from '../assets/images/pants.jpg';
 
 export const localProducts = [
   { id: 1, name: 'Sandle', price: 30, image: sandle },
