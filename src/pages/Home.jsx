@@ -2,7 +2,7 @@ import React from 'react';
 import { useDispatch, useSelector } from 'react-redux';
 import { setProducts, selectProducts } from '../redux/productSlice';
 import CategoriesComponent from '../components/CategoriesComponent';
-import HeroImage from '../assets/Images/shop2.jpg';
+import HeroImage from '../assets/images/shop2.jpg';
 import InfoSection from '../components/InfoSection';
 import CategorySection from '../components/CategorySection';
 import Shop from './Shop';
